@@ -1,9 +1,13 @@
 # 🇨🇱 DTE Chile - Sistema Propio de Facturación Electrónica & Certificación SII
 
-![DTE Chile Engine](https://img.shields.io/badge/SII-DTE__v10.xsd-blue)
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Production%20Live-black?style=flat&logo=vercel)](https://facturas-requerimiento.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-joytan12%2FFacturas--requerimiento-blue?style=flat&logo=github)](https://github.com/joytan12/Facturas-requerimiento)
+![SII DTE](https://img.shields.io/badge/SII-DTE__v10.xsd-blue)
 ![Criptografía](https://img.shields.io/badge/XMLDSig-RSA--SHA1%20%7C%20C14N-emerald)
 ![Encoding](https://img.shields.io/badge/Encoding-ISO--8859--1-amber)
-![Ambiente](https://img.shields.io/badge/Ambiente-Maull%C3%ADn%20%2F%20Palena-red)
+
+🔗 **Demo en Producción (Vercel):** [https://facturas-requerimiento.vercel.app](https://facturas-requerimiento.vercel.app)  
+📦 **Repositorio GitHub:** [https://github.com/joytan12/Facturas-requerimiento](https://github.com/joytan12/Facturas-requerimiento)
 
 Plataforma interactiva de especificación, arquitectura y prototipo operativo de un **motor propio de facturación electrónica (DTE) en Chile** ante el **Servicio de Impuestos Internos (SII)**.
 
