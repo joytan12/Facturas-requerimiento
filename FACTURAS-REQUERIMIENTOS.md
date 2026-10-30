@@ -2,6 +2,8 @@
 
 > **Proyecto:** Facturas-requerimiento  
 > **Ubicación:** `facturas/Facturas-requerimiento/`  
+> **GitHub:** [https://github.com/joytan12/Facturas-requerimiento](https://github.com/joytan12/Facturas-requerimiento)  
+> **Deploy Vercel:** [https://facturas-requerimiento.vercel.app](https://facturas-requerimiento.vercel.app)  
 > **Estándar:** DTE_v10.xsd / W3C XMLDSig / ISO-8859-1  
 > **Ambientes:** Certificación (`maullin.sii.cl` / `pangal.sii.cl`) y Producción (`palena.sii.cl` / `rahue.sii.cl`)
 
